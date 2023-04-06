@@ -1,6 +1,6 @@
 package svc
 
-import "github.com/linx93/microservice-demo/mall/user/rpc/internal/config"
+import "github.com/linx93/microservice-demo/service/user/rpc/internal/config"
 
 type ServiceContext struct {
 	Config config.Config

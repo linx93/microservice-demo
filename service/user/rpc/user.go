@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/linx93/microservice-demo/mall/user/rpc/internal/config"
-	"github.com/linx93/microservice-demo/mall/user/rpc/internal/server"
-	"github.com/linx93/microservice-demo/mall/user/rpc/internal/svc"
-	"github.com/linx93/microservice-demo/mall/user/rpc/types/user"
+	"github.com/linx93/microservice-demo/service/user/rpc/internal/config"
+	"github.com/linx93/microservice-demo/service/user/rpc/internal/server"
+	"github.com/linx93/microservice-demo/service/user/rpc/internal/svc"
+	"github.com/linx93/microservice-demo/service/user/rpc/types/user"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"

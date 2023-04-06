@@ -1,6 +1,6 @@
 module github.com/linx93/microservice-demo
 
-go 1.19
+go 1.18
 
 require (
 	github.com/zeromicro/go-zero v1.5.0

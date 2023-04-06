@@ -3,10 +3,10 @@ package logic
 import (
 	"context"
 	"errors"
-	"github.com/linx93/microservice-demo/mall/user/rpc/types/user"
+	"github.com/linx93/microservice-demo/service/user/rpc/types/user"
 
-	"github.com/linx93/microservice-demo/mall/order/api/internal/svc"
-	"github.com/linx93/microservice-demo/mall/order/api/internal/types"
+	"github.com/linx93/microservice-demo/service/order/api/internal/svc"
+	"github.com/linx93/microservice-demo/service/order/api/internal/types"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

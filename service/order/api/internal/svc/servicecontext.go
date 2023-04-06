@@ -1,8 +1,8 @@
 package svc
 
 import (
-	"github.com/linx93/microservice-demo/mall/order/api/internal/config"
-	"github.com/linx93/microservice-demo/mall/user/rpc/userclient"
+	"github.com/linx93/microservice-demo/service/order/api/internal/config"
+	"github.com/linx93/microservice-demo/service/user/rpc/userclient"
 	"github.com/zeromicro/go-zero/zrpc"
 )
 

@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/linx93/microservice-demo/mall/order/api/internal/config"
-	"github.com/linx93/microservice-demo/mall/order/api/internal/handler"
-	"github.com/linx93/microservice-demo/mall/order/api/internal/svc"
+	"github.com/linx93/microservice-demo/service/order/api/internal/config"
+	"github.com/linx93/microservice-demo/service/order/api/internal/handler"
+	"github.com/linx93/microservice-demo/service/order/api/internal/svc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/rest"

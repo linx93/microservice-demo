@@ -6,7 +6,7 @@ package userclient
 import (
 	"context"
 
-	"github.com/linx93/microservice-demo/mall/user/rpc/types/user"
+	"github.com/linx93/microservice-demo/service/user/rpc/types/user"
 
 	"github.com/zeromicro/go-zero/zrpc"
 	"google.golang.org/grpc"

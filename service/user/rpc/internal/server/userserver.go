@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	"github.com/linx93/microservice-demo/mall/user/rpc/internal/logic"
-	"github.com/linx93/microservice-demo/mall/user/rpc/internal/svc"
-	"github.com/linx93/microservice-demo/mall/user/rpc/types/user"
+	"github.com/linx93/microservice-demo/service/user/rpc/internal/logic"
+	"github.com/linx93/microservice-demo/service/user/rpc/internal/svc"
+	"github.com/linx93/microservice-demo/service/user/rpc/types/user"
 )
 
 type UserServer struct {

@@ -4,7 +4,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/linx93/microservice-demo/mall/order/api/internal/svc"
+	"github.com/linx93/microservice-demo/service/order/api/internal/svc"
 
 	"github.com/zeromicro/go-zero/rest"
 )
