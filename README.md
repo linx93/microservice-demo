@@ -1,5 +1,7 @@
 # microservice-demo
 ### 目录
+
+```
 ├─microservice-demo
 │  ├─common                     公共代码
 │  │  ├─ApiResult               关于api返回的封装
@@ -29,3 +31,4 @@
 │              ├─types
 │              │  └─user
 │              └─userclient
+```
